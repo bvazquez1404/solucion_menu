@@ -4,3 +4,18 @@
 @font-face {
     
 }
+
+
+/* LINKS */
+a{
+    color: var(--colorNegro);
+}
+
+a:hover{
+    color: var(--colorRojo);
+}
+
+/* TIPOS DE TIPOGRAFÍA (H's párrafos...) */
+html{
+    font-family: sans-serif;
+}
